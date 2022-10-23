@@ -16,6 +16,6 @@ spec:
         app: vote
     spec:
       containers:
-      - image: schoolofdevops/vote:dsadas
+      - image: schoolofdevops/vote:v4
         name: vote
         resources: {}
